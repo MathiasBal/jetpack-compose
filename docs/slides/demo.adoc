@@ -1,6 +1,14 @@
-= Some Slide
+= Jetpack Compose
+Nathalie Herzog
 ifndef::imagesdir[:imagesdir: ../images]
 
-image::img.png[]
+== Was ist Jetpack Compose?
 
-Testing filter by changing documentation file
+* "Werkzeugkasten" zum Bauen von Android UIs
+* macht sich deklaratives Programmieren zunutze
+
+== Warum Jetpack Compose?
+
+* Schnell und gute Performance
+* Einfach zu erlernen
+* 100% mit Kotlin gemacht
